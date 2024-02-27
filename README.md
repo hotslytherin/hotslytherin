@@ -1,4 +1,4 @@
 Have you tried Revelio?
 
-![](wand.gif)
+![](harry.gif)
 
